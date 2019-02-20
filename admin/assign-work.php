@@ -6,12 +6,12 @@
     <!-- Content Header (Page header) -->
     <section class="content-header">
         <h1>
-            Assign Students to Co-ordinators
+            Assign Work
         </h1>
         <ol class="breadcrumb">
             <li><a href="index.php"><i class="fa fa-dashboard"></i>Dashboard</a></li>
-            <li><a href="#">Assign Coordinators</a></li>
-            <li class="active">Assign Students to Co-ordinators</li>
+            <li><a href="#">Work Reports</a></li>
+            <li class="active">Assign Work</li>
         </ol>
     </section>
 
@@ -27,24 +27,6 @@
                         <div class="box-body">
                             <div class="col-md-6">
                                 <div class="form-group">
-                                    <label>Student Name</label>
-                                    <input type="text" class="form-control" name="sname" placeholder="Enter Name">
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <div class="form-group">
-                                    <label>Registration Id</label>
-                                    <input type="text" class="form-control" name="rid" placeholder="Enter ID">
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <div class="form-group">
-                                    <label>MCIID</label>
-                                    <input type="text" class="form-control" name="mciid" placeholder="Enter MCCID">
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <div class="form-group">
                                     <label>Assign to</label>
                                     <select class="form-control" name="assignto" id="">
                                         <option value="" selected disabled>Select</option>
@@ -53,6 +35,24 @@
                                         <option value="3">Option 3</option>
                                         <option value="4">Option 4</option>
                                     </select>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label>Subject</label>
+                                    <input type="text" class="form-control" name="sname" placeholder="Enter Name">
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label>Description</label>
+                                    <input type="text" class="form-control" name="rid" placeholder="Enter ID">
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label>Deadline</label>
+                                    <input type="text" class="form-control" name="mciid" placeholder="Enter MCCID">
                                 </div>
                             </div>
                             <div class="clearfix">&nbsp;</div>

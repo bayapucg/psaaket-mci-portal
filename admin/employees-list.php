@@ -6,11 +6,11 @@
     <!-- Content Header (Page header) -->
     <section class="content-header">
         <h1>
-            Employee Details
+            Employees List
         </h1>
         <ol class="breadcrumb">
-            <li><a href="index.php"><i class="fa fa-dashboard"></i>Home</a></li>
-            <li class="active">Employee Details</li>
+            <li><a href="index.php"><i class="fa fa-dashboard"></i>Dashboard</a></li>
+            <li class="active">Employee List</li>
         </ol>
     </section>
 
@@ -44,7 +44,8 @@
                                     <td>8500xxxxx2</td>
                                     <td>2012/08/03</td>
                                     <td>
-                                        <a class="btn btn-danger btn-xs"><i class="fa fa-trash mr-5"></i>Delete</a>
+                                        <a href="view-employee-info.php" class="btn btn-info btn-xs"><i class="fa fa-eye mr-5"></i>view</a>
+                                        <a href="#" class="btn btn-danger btn-xs"><i class="fa fa-trash mr-5"></i>Delete</a>
                                     </td>
                                 </tr>
                                 <tr>
@@ -55,7 +56,8 @@
                                     <td>8500xxxxx2</td>
                                     <td>2012/08/03</td>
                                     <td>
-                                        <a class="btn btn-danger btn-xs"><i class="fa fa-trash mr-5"></i>Delete</a>
+                                        <a href="view-employee-info.php" class="btn btn-info btn-xs"><i class="fa fa-eye mr-5"></i>view</a>
+                                        <a href="#" class="btn btn-danger btn-xs"><i class="fa fa-trash mr-5"></i>Delete</a>
                                     </td>
                                 </tr>
                                 <tr>
@@ -66,7 +68,8 @@
                                     <td>8500xxxxx2</td>
                                     <td>2012/08/03</td>
                                     <td>
-                                        <a class="btn btn-danger btn-xs"><i class="fa fa-trash mr-5"></i>Delete</a>
+                                        <a href="view-employee-info.php" class="btn btn-info btn-xs"><i class="fa fa-eye mr-5"></i>view</a>
+                                        <a href="#" class="btn btn-danger btn-xs"><i class="fa fa-trash mr-5"></i>Delete</a>
                                     </td>
                                 </tr>
                                 <tr>
@@ -77,7 +80,8 @@
                                     <td>8500xxxxx2</td>
                                     <td>2012/08/03</td>
                                     <td>
-                                        <a class="btn btn-danger btn-xs"><i class="fa fa-trash mr-5"></i>Delete</a>
+                                        <a href="view-employee-info.php" class="btn btn-info btn-xs"><i class="fa fa-eye mr-5"></i>view</a>
+                                        <a href="#" class="btn btn-danger btn-xs"><i class="fa fa-trash mr-5"></i>Delete</a>
                                     </td>
                                 </tr>
                                 <tr>
@@ -88,7 +92,8 @@
                                     <td>8500xxxxx2</td>
                                     <td>2012/08/03</td>
                                     <td>
-                                        <a class="btn btn-danger btn-xs"><i class="fa fa-trash mr-5"></i>Delete</a>
+                                        <a href="view-employee-info.php" class="btn btn-info btn-xs"><i class="fa fa-eye mr-5"></i>view</a>
+                                        <a href="#" class="btn btn-danger btn-xs"><i class="fa fa-trash mr-5"></i>Delete</a>
                                     </td>
                                 </tr>
                             </tbody>

@@ -49,7 +49,6 @@
                                         <td>xxxxxxx</td>
                                         <td>xxxxxxx</td>
                                         <td>
-                                            <a href="#" class="btn btn-primary btn-xs mb-5"><i class="fa fa-edit mr-5"></i>Edit</a>
                                             <a href="#" class="btn btn-danger btn-xs mb-5"><i class="fa fa-trash mr-5"></i>Delete</a>
                                         </td>
                                     </tr>
@@ -63,7 +62,6 @@
                                         <td>xxxxxxx</td>
                                         <td>xxxxxxx</td>
                                         <td>
-                                            <a href="#" class="btn btn-primary btn-xs mb-5"><i class="fa fa-edit mr-5"></i>Edit</a>
                                             <a href="#" class="btn btn-danger btn-xs mb-5"><i class="fa fa-trash mr-5"></i>Delete</a>
                                         </td>
                                     </tr>
@@ -77,7 +75,6 @@
                                         <td>xxxxxxx</td>
                                         <td>xxxxxxx</td>
                                         <td>
-                                            <a href="#" class="btn btn-primary btn-xs mb-5"><i class="fa fa-edit mr-5"></i>Edit</a>
                                             <a href="#" class="btn btn-danger btn-xs mb-5"><i class="fa fa-trash mr-5"></i>Delete</a>
                                         </td>
                                     </tr>

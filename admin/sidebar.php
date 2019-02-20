@@ -19,11 +19,11 @@
         <!-- Sidebar Menu -->
         <ul class="sidebar-menu" data-widget="tree">
             <li class="header">Admin</li>
-            <li class="active"><a href="index.php"><i class="fa fa-link"></i> <span>Dashboard</span></a></li>
-            <li><a href="employee_details.php"><i class="fa fa-table"></i> <span>Employee Details</span></a></li>
+            <li class="active"><a href="index.php"><i class="fa fa-dashboard"></i> <span>Dashboard</span></a></li>
+            <li><a href="employees-list.php"><i class="fa fa-users"></i> <span>Employees List</span></a></li>
             <li class="treeview">
                 <a href="#">
-                    <i class="fa fa-folder"></i> <span>Register Students</span>
+                    <i class="fa fa-user-plus"></i> <span>Register Students</span>
                     <span class="pull-right-container">
                         <i class="fa fa-angle-left pull-right"></i>
                     </span>
@@ -35,7 +35,7 @@
             </li>
             <li class="treeview">
                 <a href="#">
-                    <i class="fa fa-folder"></i> <span>Assign Coordinators</span>
+                    <i class="fa fa-tasks"></i> <span>Assign Coordinators</span>
                     <span class="pull-right-container">
                         <i class="fa fa-angle-left pull-right"></i>
                     </span>
@@ -45,10 +45,10 @@
                     <li><a href="assigned-coordinators-list.php"><i class="fa fa-circle-o"></i>Assigned Coordinators List</a></li>
                 </ul>
             </li>
-            <li><a href=""><i class="fa fa-table"></i> <span>Academic Schedules</span></a></li>
+            <li><a href=""><i class="fa fa-book"></i> <span>Academic Schedules</span></a></li>
             <li class="treeview">
                 <a href="#">
-                    <i class="fa fa-folder"></i> <span>Fee Details</span>
+                    <i class="fa fa-money"></i> <span>Fee Details</span>
                     <span class="pull-right-container">
                         <i class="fa fa-angle-left pull-right"></i>
                     </span>
@@ -59,10 +59,22 @@
                     <li><a href="completed-fee-details-list.php"><i class="fa fa-circle-o"></i>Completed Fee Details</a></li>
                 </ul>
             </li>
-            <li><a href="work-reports.php"><i class="fa fa-table"></i> <span>Work Reports</span></a></li>
             <li class="treeview">
                 <a href="#">
-                    <i class="fa fa-folder"></i> <span>Attendance Reports</span>
+                    <i class="fa fa-file-text"></i> <span>Work Reports</span>
+                    <span class="pull-right-container">
+                        <i class="fa fa-angle-left pull-right"></i>
+                    </span>
+                </a>
+                <ul class="treeview-menu" style="display: none;">
+                    <li><a href="employees-works-report.php"><i class="fa fa-circle-o"></i>Employees Works Reports</a></li>
+                    <li><a href="assign-work.php"><i class="fa fa-circle-o"></i>Assign Work</a></li>
+                    <li><a href="assigned-works-list.php"><i class="fa fa-circle-o"></i>Assigned Works List</a></li>
+                </ul>
+            </li>
+            <li class="treeview">
+                <a href="#">
+                    <i class="fa fa-clock-o"></i> <span>Attendance Reports</span>
                     <span class="pull-right-container">
                         <i class="fa fa-angle-left pull-right"></i>
                     </span>
@@ -72,10 +84,10 @@
                     <li><a href="attendance-reports-students.php"><i class="fa fa-circle-o"></i>Students</a></li>
                 </ul>
             </li>
-            <li><a href=""><i class="fa fa-table"></i> <span>Confirm Payroll/Payslip</span></a></li>
+            <li><a href=""><i class="fa fa-check-circle"></i> <span>Confirm Payroll/Payslip</span></a></li>
             <li class="treeview">
                 <a href="#">
-                    <i class="fa fa-folder"></i> <span>Leave Management</span>
+                    <i class="fa fa-calendar"></i> <span>Leave Management</span>
                     <span class="pull-right-container">
                         <i class="fa fa-angle-left pull-right"></i>
                     </span>
@@ -88,7 +100,7 @@
             </li>
             <li class="treeview">
                 <a href="#">
-                    <i class="fa fa-folder"></i> <span>Document & Policies</span>
+                    <i class="fa fa-shield"></i> <span>Document & Policies</span>
                     <span class="pull-right-container">
                         <i class="fa fa-angle-left pull-right"></i>
                     </span>
@@ -98,7 +110,7 @@
                     <li><a href="uploaded-documents-list.php"><i class="fa fa-circle-o"></i>Documents List</a></li>
                 </ul>
             </li>
-            <li><a href="help.php"><i class="fa fa-table"></i> <span>Help & Support</span></a></li>
+            <li><a href="help.php"><i class="fa fa-handshake-o"></i> <span>Help & Support</span></a></li>
         </ul>
         <!-- /.sidebar-menu -->
     </section>

@@ -19,10 +19,10 @@
         <!-- Sidebar Menu -->
         <ul class="sidebar-menu" data-widget="tree">
             <li class="header">HR - Portal</li>
-            <li class="active"><a href="index.php"><i class="fa fa-link"></i> <span>Dashboard</span></a></li>
+            <li class="active"><a href="index.php"><i class="fa fa-dashboard"></i> <span>Dashboard</span></a></li>
             <li class="treeview">
                 <a href="#">
-                    <i class="fa fa-folder"></i> <span>Employee Details</span>
+                    <i class="fa fa-users"></i> <span>Employees Details</span>
                     <span class="pull-right-container">
                         <i class="fa fa-angle-left pull-right"></i>
                     </span>
@@ -32,11 +32,11 @@
                     <li><a href="employees-list.php"><i class="fa fa-circle-o"></i>Employees List</a></li>
                 </ul>
             </li>
-            <li><a href="attendance-reports.php"><i class="fa fa-table"></i> <span>Attendance Reports</span></a></li>
-            <li><a href="payslip.php"><i class="fa fa-table"></i> <span>Generate Payroll/Payslip</span></a></li>
+            <li><a href="attendance-reports.php"><i class="fa fa-file-text"></i> <span>Attendance Reports</span></a></li>
+            <li><a href="payslip.php"><i class="fa fa-asl-interpreting"></i> <span>Generate Payroll/Payslip</span></a></li>
             <li class="treeview">
                 <a href="#">
-                    <i class="fa fa-folder"></i> <span>Leave Management</span>
+                    <i class="fa fa-calendar"></i> <span>Leave Management</span>
                     <span class="pull-right-container">
                         <i class="fa fa-angle-left pull-right"></i>
                     </span>
@@ -49,7 +49,7 @@
             </li>
             <li class="treeview">
                 <a href="#">
-                    <i class="fa fa-folder"></i> <span>Document & Policies</span>
+                    <i class="fa fa-shield"></i> <span>Document & Policies</span>
                     <span class="pull-right-container">
                         <i class="fa fa-angle-left pull-right"></i>
                     </span>
@@ -59,7 +59,7 @@
                     <li><a href="uploaded-documents-list.php"><i class="fa fa-circle-o"></i>Documents List</a></li>
                 </ul>
             </li>
-            <li><a href="help.php"><i class="fa fa-table"></i> <span>Help & Support</span></a></li>
+            <li><a href="help.php"><i class="fa fa-handshake-o"></i> <span>Help & Support</span></a></li>
         </ul>
         <!-- /.sidebar-menu -->
     </section>

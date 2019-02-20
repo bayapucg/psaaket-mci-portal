@@ -6,12 +6,12 @@
     <!-- Content Header (Page header) -->
     <section class="content-header">
         <h1>
-            Leave Requests
+            Assigned Works List
         </h1>
         <ol class="breadcrumb">
             <li><a href="index.php"><i class="fa fa-dashboard"></i>Dashboard</a></li>
-            <li><a href="#">Leave Management</a></li>
-            <li class="active">Leave Requests</li>
+            <li><a href="#">Work Reports</a></li>
+            <li class="active">Assigned Works List</li>
         </ol>
     </section>
 
@@ -28,15 +28,11 @@
                                 <thead>
                                     <tr>
                                         <th>SI.No</th>
-                                        <th>Employee ID</th>
-                                        <th>Employee Name</th>
-                                        <th>Designation</th>
-                                        <th>Leave Type</th>
-                                        <th>Leave From</th>
-                                        <th>Leave To</th>
-                                        <th>Reason</th>
-                                        <th>Created Date</th>
-                                        <th>Add Comment</th>
+                                        <th>Assign to</th>
+                                        <th>Work Subject</th>
+                                        <th>Work Description</th>
+                                        <th>Deadline</th>
+                                        <th>Status</th>
                                         <th>Action</th>
                                     </tr>
                                 </thead>
@@ -47,18 +43,34 @@
                                         <td>xxxxxxx</td>
                                         <td>xxxxxxx</td>
                                         <td>xxxxxxx</td>
-                                        <td>xxxxxxx</td>
-                                        <td>xxxxxxx</td>
-                                        <td>xxxxxxx</td>
-                                        <td>xxxxxxx</td>
+                                        <td><label class="badge badge-warning">Pending</label></td>
                                         <td>
-                                            <div class="form-group">
-                                                <input type="text" class="form-control" name="">
-                                            </div>
+                                            <a href="#" class="btn btn-primary btn-xs mb-5"><i class="fa fa-edit mr-5"></i>Edit</a>
+                                            <a href="#" class="btn btn-danger btn-xs mb-5"><i class="fa fa-trash mr-5"></i>Delete</a>
                                         </td>
+                                    </tr>
+                                    <tr>
+                                        <td>2</td>
+                                        <td>xxxxxxx</td>
+                                        <td>xxxxxxx</td>
+                                        <td>xxxxxxx</td>
+                                        <td>xxxxxxx</td>
+                                        <td><label class="badge badge-success">Completed</label></td>
                                         <td>
-                                            <a href="#" class="btn btn-success btn-xs mb-5"><i class="fa fa-check mr-5"></i>Accept</a>
-                                            <a href="#" class="btn btn-danger btn-xs mb-5"><i class="fa fa-close mr-5"></i>Reject</a>
+                                            <a href="#" class="btn btn-primary btn-xs mb-5"><i class="fa fa-edit mr-5"></i>Edit</a>
+                                            <a href="#" class="btn btn-danger btn-xs mb-5"><i class="fa fa-trash mr-5"></i>Delete</a>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>3</td>
+                                        <td>xxxxxxx</td>
+                                        <td>xxxxxxx</td>
+                                        <td>xxxxxxx</td>
+                                        <td>xxxxxxx</td>
+                                        <td><label class="badge badge-warning">Pending</label></td>
+                                        <td>
+                                            <a href="#" class="btn btn-primary btn-xs mb-5"><i class="fa fa-edit mr-5"></i>Edit</a>
+                                            <a href="#" class="btn btn-danger btn-xs mb-5"><i class="fa fa-trash mr-5"></i>Delete</a>
                                         </td>
                                     </tr>
                                 </tbody>

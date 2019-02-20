@@ -58,7 +58,7 @@
                                         </td>
                                         <td>
                                             <a href="#" class="btn btn-success btn-xs mb-5"><i class="fa fa-check mr-5"></i>Accept</a>
-                                            <a href="#" class="btn btn-danger btn-xs mb-5"><i class="fa fa-trash mr-5"></i>Reject</a>
+                                            <a href="#" class="btn btn-danger btn-xs mb-5"><i class="fa fa-close mr-5"></i>Reject</a>
                                         </td>
                                     </tr>
                                 </tbody>

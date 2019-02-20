@@ -42,6 +42,7 @@
                                         <td>xxxxxxx</td>
                                         <td>xxxxxxx</td>
                                         <td>
+                                            <a href="#" class="btn btn-primary btn-xs mb-5"><i class="fa fa-eye mr-5"></i>View</a> 
                                             <a href="#" class="btn btn-info btn-xs mb-5"><i class="fa fa-download mr-5"></i>Download</a>
                                             <a href="#" class="btn btn-danger btn-xs mb-5"><i class="fa fa-trash mr-5"></i>Delete</a>
                                         </td>
@@ -53,6 +54,7 @@
                                         <td>xxxxxxx</td>
                                         <td>xxxxxxx</td>
                                         <td>
+                                            <a href="#" class="btn btn-primary btn-xs mb-5"><i class="fa fa-eye mr-5"></i>View</a> 
                                             <a href="#" class="btn btn-info btn-xs mb-5"><i class="fa fa-download mr-5"></i>Download</a>
                                             <a href="#" class="btn btn-danger btn-xs mb-5"><i class="fa fa-trash mr-5"></i>Delete</a>
                                         </td>
@@ -64,6 +66,7 @@
                                         <td>xxxxxxx</td>
                                         <td>xxxxxxx</td>
                                         <td>
+                                            <a href="#" class="btn btn-primary btn-xs mb-5"><i class="fa fa-eye mr-5"></i>View</a>
                                             <a href="#" class="btn btn-info btn-xs mb-5"><i class="fa fa-download mr-5"></i>Download</a>
                                             <a href="#" class="btn btn-danger btn-xs mb-5"><i class="fa fa-trash mr-5"></i>Delete</a>
                                         </td>

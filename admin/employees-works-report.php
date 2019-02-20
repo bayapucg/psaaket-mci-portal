@@ -6,11 +6,12 @@
     <!-- Content Header (Page header) -->
     <section class="content-header">
         <h1>
-            Work Reports
+            Employees Works Reports
         </h1>
         <ol class="breadcrumb">
             <li><a href="index.php"><i class="fa fa-dashboard"></i>Dashboard</a></li>
-            <li class="active">Work Reports</li>
+            <li><a href="#">Work Reports</a></li>
+            <li class="active">Employees Works Report</li>
         </ol>
     </section>
 
@@ -42,6 +43,7 @@
                                         <td>xxxxxxx</td>
                                         <td>xxxxxxx</td>
                                         <td>
+                                            <a href="#" class="btn btn-primary btn-xs mb-5"><i class="fa fa-eye mr-5"></i>View</a>
                                             <a href="#" class="btn btn-info btn-xs mb-5"><i class="fa fa-download mr-5"></i>Download</a>
                                             <a href="#" class="btn btn-danger btn-xs mb-5"><i class="fa fa-trash mr-5"></i>Delete</a>
                                         </td>
@@ -53,6 +55,7 @@
                                         <td>xxxxxxx</td>
                                         <td>xxxxxxx</td>
                                         <td>
+                                            <a href="#" class="btn btn-primary btn-xs mb-5"><i class="fa fa-eye mr-5"></i>View</a>
                                             <a href="#" class="btn btn-info btn-xs mb-5"><i class="fa fa-download mr-5"></i>Download</a>
                                             <a href="#" class="btn btn-danger btn-xs mb-5"><i class="fa fa-trash mr-5"></i>Delete</a>
                                         </td>
@@ -64,6 +67,7 @@
                                         <td>xxxxxxx</td>
                                         <td>xxxxxxx</td>
                                         <td>
+                                            <a href="#" class="btn btn-primary btn-xs mb-5"><i class="fa fa-eye mr-5"></i>View</a>
                                             <a href="#" class="btn btn-info btn-xs mb-5"><i class="fa fa-download mr-5"></i>Download</a>
                                             <a href="#" class="btn btn-danger btn-xs mb-5"><i class="fa fa-trash mr-5"></i>Delete</a>
                                         </td>
